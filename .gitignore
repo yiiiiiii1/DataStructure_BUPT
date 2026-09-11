@@ -1,0 +1,30 @@
+# Visual Studio cache
+.vs/
+
+# VSCode local settings
+.vscode/
+
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# C/C++ build outputs
+build/
+code/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+compile_commands.json
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.lib
+*.pdb
+
+# Common temporary files
+*.log
+*.tmp
+*.bak
