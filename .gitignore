@@ -47,3 +47,7 @@ a.out
 *.bak
 core
 core.*
+
+# Scratch / 本地草稿
+code/temp
+code/temp.cpp
